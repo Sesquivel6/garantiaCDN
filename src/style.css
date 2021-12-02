@@ -1,4 +1,9 @@
-  /* MODAL IMAGE */
+body {
+  background-color: lightblue;
+}
+
+
+/* MODAL IMAGE */
 
 /* Style the Image Used to Trigger the Modal */
 #myImg {
